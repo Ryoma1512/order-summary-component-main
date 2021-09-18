@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://ryoma1512.github.io/order-summary-component-main/)
+- Live Site URL: https://ryoma1512.github.io/order-summary-component-main/
 
 ## My process
 
